@@ -1,9 +1,0 @@
-{
-  "exclude": [
-    "**/__pycache__",
-    "**/.git",
-    "**/.ipynb_checkpoints",
-    "**/env",
-    "**/node_modules"
-  ]
-}
